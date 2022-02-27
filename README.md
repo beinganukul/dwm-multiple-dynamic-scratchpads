@@ -1,6 +1,6 @@
 # dwm-scratchpad
 
-Patch to enable 3 separate scratchpad using three separate keybindings. this work is based on [GasparVardanyan's](https://bitbucket.org/GasparVardanyan/dwm-scratchpad) patch.
+Patch to enable 3 separate scratchpad using three separate keybindings. this work is based on [GasparVardanyan's](https://gitlab.com/GasparVardanyan/dwm-scratchpad) patch.
 
 ## why?
 for my liking i wanted 3 separate keybindings for separate windows and that too needed to be created dynamically.
