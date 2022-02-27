@@ -12,6 +12,5 @@ for my liking i wanted 3 separate keybindings for separate windows and that too 
 
 ## this patch conflicts with gaspar's patch
 
-## todo
-publish it to suckless website.
-
+## on suckless' website
+https://dwm.suckless.org/patches/multipledynamicscratchpads/
